@@ -1,0 +1,297 @@
+<svg height="4702" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4702" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 07:58:11 +0000   497196 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 07:58:11 +0000     1417 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 07:58:11 +0000     1217 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 07:58:11 +0000      725 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 07:58:11 +0000     8578 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 07:58:11 +0000     1010 bytes  browser/Bootstrapper.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 07:58:11 +0000     1607 bytes  browser/Catberry.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 07:58:11 +0000     1410 bytes  browser/CookieWrapper.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 07:58:11 +0000    37228 bytes  browser/DocumentRenderer.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 07:58:11 +0000     6878 bytes  browser/RequestRouter.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 07:58:11 +0000      643 bytes  browser/helpers/hrTimeHelper.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 07:58:11 +0000     3655 bytes  browser/loaders/ComponentLoader.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 07:58:11 +0000     2514 bytes  browser/loaders/StoreLoader.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 07:58:11 +0000     1513 bytes  browser/providers/ModuleApiProvider.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 07:58:11 +0000     1734 bytes  browser/providers/StateProvider.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 07:58:11 +0000      327 bytes  codecov.yml</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 07:58:11 +0000       63 bytes  index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 07:58:11 +0000     1792 bytes  lib/Bootstrapper.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 07:58:11 +0000      754 bytes  lib/Catberry.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 07:58:11 +0000      960 bytes  lib/ContextFactory.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 07:58:11 +0000     1991 bytes  lib/CookieWrapper.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 07:58:11 +0000     1443 bytes  lib/DocumentRenderer.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 07:58:11 +0000     2918 bytes  lib/RequestRouter.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 07:58:11 +0000     1859 bytes  lib/SerialWrapper.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 07:58:11 +0000     9272 bytes  lib/StoreDispatcher.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 07:58:11 +0000      425 bytes  lib/appDefinitions.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 07:58:11 +0000     2286 bytes  lib/base/BootstrapperBase.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 07:58:11 +0000      711 bytes  lib/base/CatberryBase.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 07:58:11 +0000     3127 bytes  lib/base/CookieWrapperBase.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 07:58:11 +0000     1514 bytes  lib/base/DocumentRendererBase.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 07:58:11 +0000     1346 bytes  lib/base/LoaderBase.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 07:58:11 +0000     3039 bytes  lib/base/ModuleApiProviderBase.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 07:58:11 +0000    10702 bytes  lib/base/StateProviderBase.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 07:58:11 +0000     7336 bytes  lib/builders/AppDefinitionsBuilder.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 07:58:11 +0000    12753 bytes  lib/builders/BrowserBundleBuilder.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 07:58:11 +0000    10934 bytes  lib/finders/ComponentFinder.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 07:58:11 +0000     4417 bytes  lib/finders/StoreFinder.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 07:58:11 +0000     1280 bytes  lib/helpers/errorHelper.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 07:58:11 +0000      685 bytes  lib/helpers/hrTimeHelper.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 07:58:11 +0000     3899 bytes  lib/helpers/loadHelper.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 07:58:11 +0000     4733 bytes  lib/helpers/moduleHelper.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 07:58:11 +0000      412 bytes  lib/helpers/propertyHelper.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 07:58:11 +0000      794 bytes  lib/helpers/requireHelper.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 07:58:11 +0000     2097 bytes  lib/helpers/templateHelper.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 07:58:11 +0000      453 bytes  lib/helpers/uriHelper.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 07:58:11 +0000     6343 bytes  lib/loaders/ComponentLoader.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 07:58:11 +0000     4419 bytes  lib/loaders/StoreLoader.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 07:58:11 +0000      395 bytes  lib/promises/fs.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 07:58:11 +0000      586 bytes  lib/promises/promiseHelper.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 07:58:11 +0000     3279 bytes  lib/providers/ModuleApiProvider.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 07:58:11 +0000     1600 bytes  lib/providers/StateProvider.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 07:58:11 +0000    12579 bytes  lib/streams/ComponentReadable.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 07:58:11 +0000    10448 bytes  lib/tokenizers/HTMLTagTokenizer.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 07:58:11 +0000     3955 bytes  lib/tokenizers/HTMLTokenizer.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 07:58:11 +0000     5694 bytes  lib/tokenizers/RouteExpressionTokenizer.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 07:58:11 +0000     5908 bytes  lib/tokenizers/RouteParser.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 07:58:11 +0000     4670 bytes  package.json</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 07:58:11 +0000     3394 bytes  test/browser/CookieWrapper.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 07:58:11 +0000    51425 bytes  test/browser/DocumentRenderer.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 07:58:11 +0000    18663 bytes  test/browser/RequestRouter.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 07:58:11 +0000    12008 bytes  test/browser/loaders/ComponentLoader.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 07:58:11 +0000     5623 bytes  test/browser/loaders/StoreLoader.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 07:58:11 +0000     3151 bytes  test/browser/providers/ModuleApiProvider.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 07:58:11 +0000     2713 bytes  test/browser/providers/StateProvider.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 07:58:11 +0000      142 bytes  test/cases/browser/DocumentRenderer/expected/cli\</tspan>
+<tspan x="10" y="1066">ckable.html</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-18 07:58:11 +0000      658 bytes  test/cases/browser/DocumentRenderer/expected/com\</tspan>
+<tspan x="10" y="1098">plex-head.html</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-18 07:58:11 +0000      102 bytes  test/cases/browser/DocumentRenderer/expected/dis\</tspan>
+<tspan x="10" y="1130">patched-event.html</tspan>
+<tspan x="10" y="1146"> 67.  2017-04-18 07:58:11 +0000      925 bytes  test/cases/browser/DocumentRenderer/expected/mer\</tspan>
+<tspan x="10" y="1162">ged-head.html</tspan>
+<tspan x="10" y="1178"> 68.  2017-04-18 07:58:11 +0000      641 bytes  test/cases/browser/DocumentRenderer/expected/mer\</tspan>
+<tspan x="10" y="1194">ged-head2.html</tspan>
+<tspan x="10" y="1210"> 69.  2017-04-18 07:58:11 +0000      200 bytes  test/cases/browser/DocumentRenderer/expected/nes\</tspan>
+<tspan x="10" y="1226">ted-components.html</tspan>
+<tspan x="10" y="1242"> 70.  2017-04-18 07:58:11 +0000       82 bytes  test/cases/browser/DocumentRenderer/expected/not\</tspan>
+<tspan x="10" y="1258">-dispatched-event.html</tspan>
+<tspan x="10" y="1274"> 71.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/browser/DocumentRenderer/expected/tes\</tspan>
+<tspan x="10" y="1290">t-error-component.html</tspan>
+<tspan x="10" y="1306"> 72.  2017-04-18 07:58:11 +0000       33 bytes  test/cases/browser/DocumentRenderer/expected/tes\</tspan>
+<tspan x="10" y="1322">t-simple-component.html</tspan>
+<tspan x="10" y="1338"> 73.  2017-04-18 07:58:11 +0000       69 bytes  test/cases/browser/DocumentRenderer/templates/cl\</tspan>
+<tspan x="10" y="1354">ickable1.html</tspan>
+<tspan x="10" y="1370"> 74.  2017-04-18 07:58:11 +0000       48 bytes  test/cases/browser/DocumentRenderer/templates/cl\</tspan>
+<tspan x="10" y="1386">ickable2.html</tspan>
+<tspan x="10" y="1402"> 75.  2017-04-18 07:58:11 +0000       86 bytes  test/cases/browser/DocumentRenderer/templates/cl\</tspan>
+<tspan x="10" y="1418">ickable3.html</tspan>
+<tspan x="10" y="1434"> 76.  2017-04-18 07:58:11 +0000      658 bytes  test/cases/browser/DocumentRenderer/templates/co\</tspan>
+<tspan x="10" y="1450">mplex-head.html</tspan>
+<tspan x="10" y="1466"> 77.  2017-04-18 07:58:11 +0000      654 bytes  test/cases/browser/DocumentRenderer/templates/co\</tspan>
+<tspan x="10" y="1482">mplex-head2.html</tspan>
+<tspan x="10" y="1498"> 78.  2017-04-18 07:58:11 +0000      647 bytes  test/cases/browser/DocumentRenderer/templates/co\</tspan>
+<tspan x="10" y="1514">mplex-head3.html</tspan>
+<tspan x="10" y="1530"> 79.  2017-04-18 07:58:11 +0000      660 bytes  test/cases/browser/DocumentRenderer/templates/do\</tspan>
+<tspan x="10" y="1546">cument-many-nested.html</tspan>
+<tspan x="10" y="1562"> 80.  2017-04-18 07:58:11 +0000       31 bytes  test/cases/browser/DocumentRenderer/templates/er\</tspan>
+<tspan x="10" y="1578">ror.html</tspan>
+<tspan x="10" y="1594"> 81.  2017-04-18 07:58:11 +0000       80 bytes  test/cases/browser/DocumentRenderer/templates/ne\</tspan>
+<tspan x="10" y="1610">sted1.html</tspan>
+<tspan x="10" y="1626"> 82.  2017-04-18 07:58:11 +0000       60 bytes  test/cases/browser/DocumentRenderer/templates/ne\</tspan>
+<tspan x="10" y="1642">sted2.html</tspan>
+<tspan x="10" y="1658"> 83.  2017-04-18 07:58:11 +0000      152 bytes  test/cases/browser/DocumentRenderer/templates/re\</tspan>
+<tspan x="10" y="1674">nder-test-comp1.html</tspan>
+<tspan x="10" y="1690"> 84.  2017-04-18 07:58:11 +0000      167 bytes  test/cases/browser/DocumentRenderer/templates/re\</tspan>
+<tspan x="10" y="1706">nder-test-comp2.html</tspan>
+<tspan x="10" y="1722"> 85.  2017-04-18 07:58:11 +0000       96 bytes  test/cases/browser/DocumentRenderer/templates/re\</tspan>
+<tspan x="10" y="1738">nder-test-comp3.html</tspan>
+<tspan x="10" y="1754"> 86.  2017-04-18 07:58:11 +0000       96 bytes  test/cases/browser/DocumentRenderer/templates/re\</tspan>
+<tspan x="10" y="1770">nder-test-comp4.html</tspan>
+<tspan x="10" y="1786"> 87.  2017-04-18 07:58:11 +0000      799 bytes  test/cases/browser/DocumentRenderer/templates/re\</tspan>
+<tspan x="10" y="1802">nder-test-page.html</tspan>
+<tspan x="10" y="1818"> 88.  2017-04-18 07:58:11 +0000       38 bytes  test/cases/browser/DocumentRenderer/templates/si\</tspan>
+<tspan x="10" y="1834">mple-component.html</tspan>
+<tspan x="10" y="1850"> 89.  2017-04-18 07:58:11 +0000       44 bytes  test/cases/browser/DocumentRenderer/templates/st\</tspan>
+<tspan x="10" y="1866">ub.html</tspan>
+<tspan x="10" y="1882"> 90.  2017-04-18 07:58:11 +0000       10 bytes  test/cases/browser/DocumentRenderer/templates/th\</tspan>
+<tspan x="10" y="1898">row-error.html</tspan>
+<tspan x="10" y="1914"> 91.  2017-04-18 07:58:11 +0000     4465 bytes  test/cases/browser/DocumentRenderer/test-cases.j\</tspan>
+<tspan x="10" y="1930">son</tspan>
+<tspan x="10" y="1946"> 92.  2017-04-18 07:58:11 +0000     4180 bytes  test/cases/browser/RequestRouter.json</tspan>
+<tspan x="10" y="1962"> 93.  2017-04-18 07:58:11 +0000     3150 bytes  test/cases/lib/CookieWrapper.json</tspan>
+<tspan x="10" y="1978"> 94.  2017-04-18 07:58:11 +0000      213 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="1994">nts-with-errors.html</tspan>
+<tspan x="10" y="2010"> 95.  2017-04-18 07:58:11 +0000      298 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2026">nts-with-stores-errors.html</tspan>
+<tspan x="10" y="2042"> 96.  2017-04-18 07:58:11 +0000      301 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2058">nts-with-stores.html</tspan>
+<tspan x="10" y="2074"> 97.  2017-04-18 07:58:11 +0000      150 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2090">nts-with-template-errors.html</tspan>
+<tspan x="10" y="2106"> 98.  2017-04-18 07:58:11 +0000      213 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2122">nts-with-wrong-components.html</tspan>
+<tspan x="10" y="2138"> 99.  2017-04-18 07:58:11 +0000      352 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2154">nts-with-wrong-stores.html</tspan>
+<tspan x="10" y="2170">100.  2017-04-18 07:58:11 +0000      220 bytes  test/cases/lib/DocumentRenderer/expected/compone\</tspan>
+<tspan x="10" y="2186">nts-without-stores.html</tspan>
+<tspan x="10" y="2202">101.  2017-04-18 07:58:11 +0000      398 bytes  test/cases/lib/DocumentRenderer/expected/nested-\</tspan>
+<tspan x="10" y="2218">components.html</tspan>
+<tspan x="10" y="2234">102.  2017-04-18 07:58:11 +0000      154 bytes  test/cases/lib/DocumentRenderer/expected/no-comp\</tspan>
+<tspan x="10" y="2250">onents.html</tspan>
+<tspan x="10" y="2266">103.  2017-04-18 07:58:11 +0000      191 bytes  test/cases/lib/DocumentRenderer/expected/redunda\</tspan>
+<tspan x="10" y="2282">nt-head-document.html</tspan>
+<tspan x="10" y="2298">104.  2017-04-18 07:58:11 +0000       65 bytes  test/cases/lib/DocumentRenderer/templates/compon\</tspan>
+<tspan x="10" y="2314">ent-with-nested.html</tspan>
+<tspan x="10" y="2330">105.  2017-04-18 07:58:11 +0000       22 bytes  test/cases/lib/DocumentRenderer/templates/compon\</tspan>
+<tspan x="10" y="2346">ent.html</tspan>
+<tspan x="10" y="2362">106.  2017-04-18 07:58:11 +0000      206 bytes  test/cases/lib/DocumentRenderer/templates/docume\</tspan>
+<tspan x="10" y="2378">nt-with-head-and-stores.html</tspan>
+<tspan x="10" y="2394">107.  2017-04-18 07:58:11 +0000      135 bytes  test/cases/lib/DocumentRenderer/templates/docume\</tspan>
+<tspan x="10" y="2410">nt-with-head.html</tspan>
+<tspan x="10" y="2426">108.  2017-04-18 07:58:11 +0000      175 bytes  test/cases/lib/DocumentRenderer/templates/docume\</tspan>
+<tspan x="10" y="2442">nt-with-wrong-ids.html</tspan>
+<tspan x="10" y="2458">109.  2017-04-18 07:58:11 +0000      155 bytes  test/cases/lib/DocumentRenderer/templates/docume\</tspan>
+<tspan x="10" y="2474">nt.html</tspan>
+<tspan x="10" y="2490">110.  2017-04-18 07:58:11 +0000       32 bytes  test/cases/lib/DocumentRenderer/templates/error.\</tspan>
+<tspan x="10" y="2506">html</tspan>
+<tspan x="10" y="2522">111.  2017-04-18 07:58:11 +0000       35 bytes  test/cases/lib/DocumentRenderer/templates/head.h\</tspan>
+<tspan x="10" y="2538">tml</tspan>
+<tspan x="10" y="2554">112.  2017-04-18 07:58:11 +0000      192 bytes  test/cases/lib/DocumentRenderer/templates/redund\</tspan>
+<tspan x="10" y="2570">ant-head-document.html</tspan>
+<tspan x="10" y="2586">113.  2017-04-18 07:58:11 +0000       10 bytes  test/cases/lib/DocumentRenderer/templates/throw-\</tspan>
+<tspan x="10" y="2602">error.html</tspan>
+<tspan x="10" y="2618">114.  2017-04-18 07:58:11 +0000     8641 bytes  test/cases/lib/DocumentRenderer/test-cases.json</tspan>
+<tspan x="10" y="2634">115.  2017-04-18 07:58:11 +0000       77 bytes  test/cases/lib/finders/ComponentFinder/component\</tspan>
+<tspan x="10" y="2650">s/test1/test-cat-component.json</tspan>
+<tspan x="10" y="2666">116.  2017-04-18 07:58:11 +0000       94 bytes  test/cases/lib/finders/ComponentFinder/component\</tspan>
+<tspan x="10" y="2682">s/test1/test2/test-cat-component.json</tspan>
+<tspan x="10" y="2698">117.  2017-04-18 07:58:11 +0000       76 bytes  test/cases/lib/finders/ComponentFinder/component\</tspan>
+<tspan x="10" y="2714">s/test3/!!!/test-cat-component.json</tspan>
+<tspan x="10" y="2730">118.  2017-04-18 07:58:11 +0000       77 bytes  test/cases/lib/finders/ComponentFinder/component\</tspan>
+<tspan x="10" y="2746">s/test3/cool/test-cat-component.json</tspan>
+<tspan x="10" y="2762">119.  2017-04-18 07:58:11 +0000       77 bytes  test/cases/lib/finders/ComponentFinder/component\</tspan>
+<tspan x="10" y="2778">s/test3/test-cat-component.json</tspan>
+<tspan x="10" y="2794">120.  2017-04-18 07:58:11 +0000      716 bytes  test/cases/lib/finders/ComponentFinder/expected.\</tspan>
+<tspan x="10" y="2810">json</tspan>
+<tspan x="10" y="2826">121.  2017-04-18 07:58:11 +0000       16 bytes  test/cases/lib/finders/ComponentFinder/watch/ano\</tspan>
+<tspan x="10" y="2842">ther/error.html</tspan>
+<tspan x="10" y="2858">122.  2017-04-18 07:58:11 +0000       88 bytes  test/cases/lib/finders/ComponentFinder/watch/ano\</tspan>
+<tspan x="10" y="2874">ther/index.js</tspan>
+<tspan x="10" y="2890">123.  2017-04-18 07:58:11 +0000       10 bytes  test/cases/lib/finders/ComponentFinder/watch/ano\</tspan>
+<tspan x="10" y="2906">ther/just-file.html</tspan>
+<tspan x="10" y="2922">124.  2017-04-18 07:58:11 +0000      130 bytes  test/cases/lib/finders/ComponentFinder/watch/ano\</tspan>
+<tspan x="10" y="2938">ther/test-cat-component.json</tspan>
+<tspan x="10" y="2954">125.  2017-04-18 07:58:11 +0000       23 bytes  test/cases/lib/finders/ComponentFinder/watch/ano\</tspan>
+<tspan x="10" y="2970">ther/test1.html</tspan>
+<tspan x="10" y="2986">126.  2017-04-18 07:58:11 +0000       96 bytes  test/cases/lib/finders/ComponentFinder/watch/ins\</tspan>
+<tspan x="10" y="3002">ide/test-cat-component.json</tspan>
+<tspan x="10" y="3018">127.  2017-04-18 07:58:11 +0000       14 bytes  test/cases/lib/finders/StoreFinder/catberry_stor\</tspan>
+<tspan x="10" y="3034">es/ErrorTest.js</tspan>
+<tspan x="10" y="3050">128.  2017-04-18 07:58:11 +0000       55 bytes  test/cases/lib/finders/StoreFinder/catberry_stor\</tspan>
+<tspan x="10" y="3066">es/Test1.js</tspan>
+<tspan x="10" y="3082">129.  2017-04-18 07:58:11 +0000       53 bytes  test/cases/lib/finders/StoreFinder/catberry_stor\</tspan>
+<tspan x="10" y="3098">es/folder/Test2.js</tspan>
+<tspan x="10" y="3114">130.  2017-04-18 07:58:11 +0000       55 bytes  test/cases/lib/finders/StoreFinder/catberry_stor\</tspan>
+<tspan x="10" y="3130">es/folder/subfolder/Test3.js</tspan>
+<tspan x="10" y="3146">131.  2017-04-18 07:58:11 +0000       14 bytes  test/cases/lib/finders/StoreFinder/catberry_stor\</tspan>
+<tspan x="10" y="3162">es/folder2/Test4.js</tspan>
+<tspan x="10" y="3178">132.  2017-04-18 07:58:11 +0000      645 bytes  test/cases/lib/finders/StoreFinder/expected.json</tspan>
+<tspan x="10" y="3194">133.  2017-04-18 07:58:11 +0000       68 bytes  test/cases/lib/finders/StoreFinder/watch/Store.j\</tspan>
+<tspan x="10" y="3210">s</tspan>
+<tspan x="10" y="3226">134.  2017-04-18 07:58:11 +0000     1055 bytes  test/cases/lib/helpers/routeHelper.json</tspan>
+<tspan x="10" y="3242">135.  2017-04-18 07:58:11 +0000       34 bytes  test/cases/lib/loaders/ComponentLoader/Error1/er\</tspan>
+<tspan x="10" y="3258">ror1.json</tspan>
+<tspan x="10" y="3274">136.  2017-04-18 07:58:11 +0000        0 bytes  test/cases/lib/loaders/ComponentLoader/Error1/in\</tspan>
+<tspan x="10" y="3290">dex.js</tspan>
+<tspan x="10" y="3306">137.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Error1/te\</tspan>
+<tspan x="10" y="3322">mplate.html</tspan>
+<tspan x="10" y="3338">138.  2017-04-18 07:58:11 +0000        3 bytes  test/cases/lib/loaders/ComponentLoader/Error2/er\</tspan>
+<tspan x="10" y="3354">ror2.json</tspan>
+<tspan x="10" y="3370">139.  2017-04-18 07:58:11 +0000       54 bytes  test/cases/lib/loaders/ComponentLoader/Error2/in\</tspan>
+<tspan x="10" y="3386">dex.js</tspan>
+<tspan x="10" y="3402">140.  2017-04-18 07:58:11 +0000       34 bytes  test/cases/lib/loaders/ComponentLoader/Error3/er\</tspan>
+<tspan x="10" y="3418">ror3.json</tspan>
+<tspan x="10" y="3434">141.  2017-04-18 07:58:11 +0000       54 bytes  test/cases/lib/loaders/ComponentLoader/Error3/in\</tspan>
+<tspan x="10" y="3450">dex.js</tspan>
+<tspan x="10" y="3466">142.  2017-04-18 07:58:11 +0000       34 bytes  test/cases/lib/loaders/ComponentLoader/Error4/er\</tspan>
+<tspan x="10" y="3482">ror4.json</tspan>
+<tspan x="10" y="3498">143.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Error4/te\</tspan>
+<tspan x="10" y="3514">mplate.html</tspan>
+<tspan x="10" y="3530">144.  2017-04-18 07:58:11 +0000       36 bytes  test/cases/lib/loaders/ComponentLoader/Error5/er\</tspan>
+<tspan x="10" y="3546">ror5.json</tspan>
+<tspan x="10" y="3562">145.  2017-04-18 07:58:11 +0000       46 bytes  test/cases/lib/loaders/ComponentLoader/Error5/in\</tspan>
+<tspan x="10" y="3578">dex.js</tspan>
+<tspan x="10" y="3594">146.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Error5/te\</tspan>
+<tspan x="10" y="3610">mplate.wrong</tspan>
+<tspan x="10" y="3626">147.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Error6/er\</tspan>
+<tspan x="10" y="3642">ror.wrong</tspan>
+<tspan x="10" y="3658">148.  2017-04-18 07:58:11 +0000       70 bytes  test/cases/lib/loaders/ComponentLoader/Error6/er\</tspan>
+<tspan x="10" y="3674">ror6.json</tspan>
+<tspan x="10" y="3690">149.  2017-04-18 07:58:11 +0000       46 bytes  test/cases/lib/loaders/ComponentLoader/Error6/in\</tspan>
+<tspan x="10" y="3706">dex.js</tspan>
+<tspan x="10" y="3722">150.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Error6/te\</tspan>
+<tspan x="10" y="3738">mplate.html</tspan>
+<tspan x="10" y="3754">151.  2017-04-18 07:58:11 +0000       54 bytes  test/cases/lib/loaders/ComponentLoader/Second/in\</tspan>
+<tspan x="10" y="3770">dex.js</tspan>
+<tspan x="10" y="3786">152.  2017-04-18 07:58:11 +0000       34 bytes  test/cases/lib/loaders/ComponentLoader/Second/se\</tspan>
+<tspan x="10" y="3802">cond.json</tspan>
+<tspan x="10" y="3818">153.  2017-04-18 07:58:11 +0000       18 bytes  test/cases/lib/loaders/ComponentLoader/Second/te\</tspan>
+<tspan x="10" y="3834">mplate.html</tspan>
+<tspan x="10" y="3850">154.  2017-04-18 07:58:11 +0000       68 bytes  test/cases/lib/loaders/ComponentLoader/first/fir\</tspan>
+<tspan x="10" y="3866">st.json</tspan>
+<tspan x="10" y="3882">155.  2017-04-18 07:58:11 +0000       52 bytes  test/cases/lib/loaders/ComponentLoader/first/log\</tspan>
+<tspan x="10" y="3898">ic.js</tspan>
+<tspan x="10" y="3914">156.  2017-04-18 07:58:11 +0000       15 bytes  test/cases/lib/loaders/ComponentLoader/first/tem\</tspan>
+<tspan x="10" y="3930">plates/error.htm</tspan>
+<tspan x="10" y="3946">157.  2017-04-18 07:58:11 +0000       13 bytes  test/cases/lib/loaders/ComponentLoader/first/tem\</tspan>
+<tspan x="10" y="3962">plates/template.html</tspan>
+<tspan x="10" y="3978">158.  2017-04-18 07:58:11 +0000     2393 bytes  test/cases/lib/loaders/ComponentLoader/test-case\</tspan>
+<tspan x="10" y="3994">s.json</tspan>
+<tspan x="10" y="4010">159.  2017-04-18 07:58:11 +0000       53 bytes  test/cases/lib/loaders/StoreLoader/Test1.js</tspan>
+<tspan x="10" y="4026">160.  2017-04-18 07:58:11 +0000       37 bytes  test/cases/lib/loaders/StoreLoader/Wrong.js</tspan>
+<tspan x="10" y="4042">161.  2017-04-18 07:58:11 +0000    15935 bytes  test/cases/lib/providers/StateProvider.json</tspan>
+<tspan x="10" y="4058">162.  2017-04-18 07:58:11 +0000     5040 bytes  test/cases/lib/streams/ComponentReadable.json</tspan>
+<tspan x="10" y="4074">163.  2017-04-18 07:58:11 +0000    18116 bytes  test/cases/lib/tokenizers/HTMLTagTokenizer.json</tspan>
+<tspan x="10" y="4090">164.  2017-04-18 07:58:11 +0000     8239 bytes  test/cases/lib/tokenizers/RouteExpressionTokeniz\</tspan>
+<tspan x="10" y="4106">er.json</tspan>
+<tspan x="10" y="4122">165.  2017-04-18 07:58:11 +0000     2447 bytes  test/lib/CookieWrapper.js</tspan>
+<tspan x="10" y="4138">166.  2017-04-18 07:58:11 +0000    14441 bytes  test/lib/DocumentRenderer.js</tspan>
+<tspan x="10" y="4154">167.  2017-04-18 07:58:11 +0000    18353 bytes  test/lib/StoreDispatcher.js</tspan>
+<tspan x="10" y="4170">168.  2017-04-18 07:58:11 +0000    13160 bytes  test/lib/finders/ComponentFinder.js</tspan>
+<tspan x="10" y="4186">169.  2017-04-18 07:58:11 +0000     3922 bytes  test/lib/finders/StoreFinder.js</tspan>
+<tspan x="10" y="4202">170.  2017-04-18 07:58:11 +0000      502 bytes  test/lib/helpers/errorHelper.js</tspan>
+<tspan x="10" y="4218">171.  2017-04-18 07:58:11 +0000     5255 bytes  test/lib/helpers/moduleHelper.js</tspan>
+<tspan x="10" y="4234">172.  2017-04-18 07:58:11 +0000      592 bytes  test/lib/helpers/uriHelper.js</tspan>
+<tspan x="10" y="4250">173.  2017-04-18 07:58:11 +0000     5498 bytes  test/lib/loaders/ComponentLoader.js</tspan>
+<tspan x="10" y="4266">174.  2017-04-18 07:58:11 +0000     5835 bytes  test/lib/loaders/StoreLoader.js</tspan>
+<tspan x="10" y="4282">175.  2017-04-18 07:58:11 +0000      673 bytes  test/lib/promises/fs.js</tspan>
+<tspan x="10" y="4298">176.  2017-04-18 07:58:11 +0000     1041 bytes  test/lib/promises/promiseHelper.js</tspan>
+<tspan x="10" y="4314">177.  2017-04-18 07:58:11 +0000     5140 bytes  test/lib/providers/ModuleApiProvider.js</tspan>
+<tspan x="10" y="4330">178.  2017-04-18 07:58:11 +0000     2590 bytes  test/lib/providers/StateProvider.js</tspan>
+<tspan x="10" y="4346">179.  2017-04-18 07:58:11 +0000     1802 bytes  test/lib/streams/ComponentReadable.js</tspan>
+<tspan x="10" y="4362">180.  2017-04-18 07:58:11 +0000     1202 bytes  test/lib/tokenizers/HTMLTagTokenizer.js</tspan>
+<tspan x="10" y="4378">181.  2017-04-18 07:58:11 +0000     1295 bytes  test/lib/tokenizers/RouteExpressionTokenizer.js</tspan>
+<tspan x="10" y="4394">182.  2017-04-18 07:58:11 +0000      389 bytes  test/mocks/HttpResponse.js</tspan>
+<tspan x="10" y="4410">183.  2017-04-18 07:58:11 +0000      621 bytes  test/mocks/ServerResponse.js</tspan>
+<tspan x="10" y="4426">184.  2017-04-18 07:58:11 +0000      559 bytes  test/mocks/UniversalMock.js</tspan>
+<tspan x="10" y="4442">185.  2017-04-18 07:58:11 +0000      191 bytes  test/mocks/components/AsyncComponent.js</tspan>
+<tspan x="10" y="4458">186.  2017-04-18 07:58:11 +0000      228 bytes  test/mocks/components/AsyncErrorComponent.js</tspan>
+<tspan x="10" y="4474">187.  2017-04-18 07:58:11 +0000      155 bytes  test/mocks/components/ConstructorErrorComponent.\</tspan>
+<tspan x="10" y="4490">js</tspan>
+<tspan x="10" y="4506">188.  2017-04-18 07:58:11 +0000      128 bytes  test/mocks/components/StoreComponent.js</tspan>
+<tspan x="10" y="4522">189.  2017-04-18 07:58:11 +0000      116 bytes  test/mocks/components/SyncComponent.js</tspan>
+<tspan x="10" y="4538">190.  2017-04-18 07:58:11 +0000      136 bytes  test/mocks/components/SyncErrorComponent.js</tspan>
+<tspan x="10" y="4554">191.  2017-04-18 07:58:11 +0000      350 bytes  test/mocks/components/index.js</tspan>
+<tspan x="10" y="4570">192.  2017-04-18 07:58:11 +0000      381 bytes  test/mocks/finders/ComponentFinder.js</tspan>
+<tspan x="10" y="4586">193.  2017-04-18 07:58:11 +0000      365 bytes  test/mocks/finders/StoreFinder.js</tspan>
+<tspan x="10" y="4602">194.  2017-04-18 07:58:11 +0000      189 bytes  test/mocks/stores/AsyncDataStore.js</tspan>
+<tspan x="10" y="4618">195.  2017-04-18 07:58:11 +0000      218 bytes  test/mocks/stores/AsyncErrorStore.js</tspan>
+<tspan x="10" y="4634">196.  2017-04-18 07:58:11 +0000      114 bytes  test/mocks/stores/SyncDataStore.js</tspan>
+<tspan x="10" y="4650">197.  2017-04-18 07:58:11 +0000      126 bytes  test/mocks/stores/SyncErrorStore.js</tspan>
+<tspan x="10" y="4666">198.  2017-04-18 07:58:11 +0000      220 bytes  test/mocks/stores/index.js</tspan>
+<tspan x="10" y="4682">199.  2017-04-18 07:58:11 +0000     2502 bytes  test/utils.js</tspan>
+</text>
+</svg>
