@@ -1,6 +1,6 @@
 # npmtest-catberry
 
-#### test coverage for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmtest-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catberry.svg)](https://travis-ci.org/npmtest/node-npmtest-catberry)
+#### basic test coverage for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmtest-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catberry.svg)](https://travis-ci.org/npmtest/node-npmtest-catberry)
 
 #### Catberry is an isomorphic framework for building universal front-end apps using components, Flux architecture and progressive rendering.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-catberry/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-catberry/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-catberry/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-catberry/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-catberry/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-catberry/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-catberry/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-catberry/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-catberry/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-catberry/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-catberry/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-catberry/build/coverage.html/index.html)
 
@@ -149,7 +149,8 @@
     "scripts": {
         "test": "make"
     },
-    "version": "9.0.0"
+    "version": "9.0.0",
+    "bin": {}
 }
 ```
 

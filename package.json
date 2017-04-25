@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmtest-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catberry.svg)](https://travis-ci.org/npmtest/node-npmtest-catberry)",
+    "description": "#### basic test coverage for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmtest-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-catberry.svg)](https://travis-ci.org/npmtest/node-npmtest-catberry)",
     "devDependencies": {
         "catberry": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
